@@ -2,11 +2,11 @@ let herois = [
   ["007", 10000],
   ["Meliodas", 1500],
   ["Luffy", 3500],
-  ["Goku", 6500],
+  ["Goku", 9000],
   ["Kaka", 7500],
   ["Joazinho", 8500],
   ["Fulano", 9500],
-  ["Siclano", 12000]
+  ["Siclano", 359865]
 ];
 
 for (let i = 0; i < herois.length; i++) {
